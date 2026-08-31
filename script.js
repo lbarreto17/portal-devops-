@@ -1,4 +1,4 @@
-onst botaoDestaque = document.querySelector("#botaoDestaque");
+const botaoDestaque = document.querySelector("#botaoDestaque");
 const servicos = document.querySelector("#servicos");
 const formContato = document.querySelector("#formContato");
 const resposta = document.querySelector("#resposta");
